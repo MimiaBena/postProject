@@ -4,7 +4,7 @@ import PostsList from './Components/PostsList';
 
 const App = () => {
   return (
-    <div>
+    <div className="App">
        <AddPostForm />
       <PostsList />
      
